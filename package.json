@@ -1,7 +1,10 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iron-black/todo.git"
+  },
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
